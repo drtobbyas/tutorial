@@ -1,6 +1,6 @@
 # Backup And Restore using Rsync
 
-## Tio Backup
+## To Backup
 
 ## Install Rsync
 ```bash
